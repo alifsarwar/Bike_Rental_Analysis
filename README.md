@@ -31,3 +31,6 @@ Fishman, E., Washington, S., & Haworth, N. (2013). Bike share: A synthesis of th
 Gebhart, K., & Noland, R. B. (2014). The impact of weather conditions on bikeshare trips. Journal of Transport Geography, 41, 67-74.
 
 Ritchie, B. W. (2011). Tourism seasonality: Impacts and strategies. Oxfordshire, UK: CABI Publishing.
+
+
+
